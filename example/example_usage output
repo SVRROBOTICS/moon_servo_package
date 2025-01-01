@@ -1,0 +1,18 @@
+svr@svr-NUC10i7FNH:~/motor_ws/src/servo_moon/src/moon_servo_package$ /bin/python3 /home/svr/motor_ws/src/servo_moon/src/moon_servo_package/example/example_usage.py
+Modbus Connection Successful
+Enable driver successful.
+Enable driver successful.
+Start jogging successful.
+Start jogging successful.
+Set speed successful.
+Stop motor after timeout successful.
+Set speed successful.
+Stop motor after timeout successful.
+Stop jogging successful.
+Stop jogging successful.
+Disable driver successful.
+Disable driver successful.
+Value at register 40011: 1044858
+Value at register 41011: 1044911
+Modbus Connection Closed
+svr@svr-NUC10i7FNH:~/motor_ws/src/servo_moon/src/moon_servo_package$ 
